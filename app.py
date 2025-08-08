@@ -25,7 +25,7 @@ def make_predictions(image_path, model_path):
 def run_app():
     # Constants
     IMAGE_NAME = "uploaded.png"
-    MODEL_PATH = "best.pt"
+    MODEL_PATH = "best1.pt"
     IMAGE_ADDRESS = "https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/10/policy-scenarios-for-eliminating-plastic-pollution-by-2040_28eb9536/76400890-en.jpg"
 
     # UI
