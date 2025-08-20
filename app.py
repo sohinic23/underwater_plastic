@@ -50,7 +50,7 @@ def run_app():
 
             with col1:
                 st.subheader("Original Image")
-                st.image(image, use_container_width=True)
+            
 
             with col2:
                 st.subheader("Detection Result")
